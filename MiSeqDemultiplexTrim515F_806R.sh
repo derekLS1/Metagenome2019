@@ -10,7 +10,7 @@
 # -N $name
 #
 #  The path used for the standard output stream of the job
-# -o /ebio/abt6_projects7/bacterial_strain_analysis/data/processed_DATA
+# -o 
 #
 # Merge stdout and stderr. The job will create only one output file which
 # contains both the real output and the error messages.
